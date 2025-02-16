@@ -18,7 +18,7 @@ Tabla de Contenidos
 
 \---
 
-Requisitos del Sistema
+## Requisitos del Sistema
 
 Asegúrate de tener instalado lo siguiente en tu entorno de desarrollo:
 
@@ -31,7 +31,7 @@ Asegúrate de tener instalado lo siguiente en tu entorno de desarrollo:
 
 \---
 
-Clonar el Repositorio
+## Clonar el Repositorio
 
 Para clonar este repositorio, ejecuta el siguiente comando en tu terminal:
 
@@ -41,7 +41,7 @@ cd nombre-proyecto
 
 \---
 
-Instalación
+## Instalación
 
 1. Instalar dependencias de PHP:
 
@@ -65,7 +65,7 @@ php artisan key:generate
 
 \---
 
-Configuración
+## Configuración
 
 1. Configurar la base de datos:
 
@@ -82,6 +82,9 @@ DB\_DATABASE=nombre\_de\_tu\_base\_de\_datos
 DB\_USERNAME=tu\_usuario
 
 DB\_PASSWORD=tu\_contraseña
+
+Si prefieres usar sqlite deja este apartado como viene por defecto
+
 
 1. Configurar el correo electrónico:
 
@@ -103,7 +106,7 @@ MAIL\_FROM\_ADDRESS="example@example.com"
 
 \---
 
-Ejecutar el Proyecto
+## Ejecutar el Proyecto
 
 1. Ejecutar migraciones:
 
@@ -122,7 +125,7 @@ El proyecto estará disponible en http://localhost:8000.
 
 \---
 
-Funcionalidades
+## Funcionalidades
 
 Autenticación y Verificación de Correo
 
@@ -144,7 +147,7 @@ Formulario de Contacto
 
 \---
 
-Generación de Datos de Prueba
+## Generación de Datos de Prueba
 
 1. Ejecutar seeders:
 
