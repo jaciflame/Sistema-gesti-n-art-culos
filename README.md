@@ -1,10 +1,10 @@
-﻿Proyecto Laravel: Sistema de Gestión de Artículos y Etiquetas
+﻿# Proyecto Laravel: Sistema de Gestión de Artículos y Etiquetas
 
 Este proyecto es una aplicación web desarrollada con Laravel, Jetstream y Livewire. Permite a los usuarios gestionar artículos y etiquetas, además de incluir funcionalidades como autenticación, verificación de correo electrónico, políticas de autorización y un formulario de contacto.
 
 \---
 
-Tabla de Contenidos
+## Tabla de Contenidos
 
 1. Requisitos del Sistema
 1. Clonar el Repositorio
